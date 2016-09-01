@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "wheelchair_teleop")
+set(wheelchair_teleop_MAINTAINER "niraj <niraj@todo.todo>")
+set(wheelchair_teleop_DEPRECATED "")
+set(wheelchair_teleop_VERSION "0.0.0")
+set(wheelchair_teleop_BUILD_DEPENDS "geometry_msgs" "roscpp" "rospy" "std_msgs")
+set(wheelchair_teleop_RUN_DEPENDS "geometry_msgs" "roscpp" "rospy" "std_msgs")
+set(wheelchair_teleop_BUILDTOOL_DEPENDS "catkin")

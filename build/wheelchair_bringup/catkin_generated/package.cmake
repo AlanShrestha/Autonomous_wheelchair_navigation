@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "wheelchair_bringup")
+set(wheelchair_bringup_MAINTAINER "niraj <niraj@todo.todo>")
+set(wheelchair_bringup_DEPRECATED "")
+set(wheelchair_bringup_VERSION "0.0.0")
+set(wheelchair_bringup_BUILD_DEPENDS "geometry_msgs" "nav_msgs" "roscpp" "rospy" "std_msgs" "tf")
+set(wheelchair_bringup_RUN_DEPENDS "geometry_msgs" "nav_msgs" "roscpp" "rospy" "std_msgs" "tf")
+set(wheelchair_bringup_BUILDTOOL_DEPENDS "catkin")

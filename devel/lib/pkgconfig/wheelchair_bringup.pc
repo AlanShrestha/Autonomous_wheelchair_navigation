@@ -1,0 +1,8 @@
+prefix=/home/niraj/final_wheelchair_ws/devel
+
+Name: wheelchair_bringup
+Description: Description of wheelchair_bringup
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/niraj/final_wheelchair_ws/devel/lib 
+Requires: 

@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "setup_tf")
+set(setup_tf_MAINTAINER "niraj <niraj@todo.todo>")
+set(setup_tf_DEPRECATED "")
+set(setup_tf_VERSION "0.0.0")
+set(setup_tf_BUILD_DEPENDS "roscpp")
+set(setup_tf_RUN_DEPENDS "roscpp")
+set(setup_tf_BUILDTOOL_DEPENDS "catkin")

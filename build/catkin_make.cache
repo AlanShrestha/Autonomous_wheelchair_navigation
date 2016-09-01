@@ -1,0 +1,2 @@
+chefbot_description:rosserial/rosserial:rosserial/rosserial_arduino:rosserial/rosserial_client:rosserial/rosserial_embeddedlinux:rosserial/rosserial_mbed:rosserial/rosserial_msgs:rosserial/rosserial_python:rosserial/rosserial_server:rosserial/rosserial_tivac:rosserial/rosserial_windows:rosserial/rosserial_xbee:setup_tf_tree:wheelchair_bringup:wheelchair_description:wheelchair_navigation:wheelchair_teleop
+-DCATKIN_DEVEL_PREFIX=/home/niraj/final_wheelchair_ws/devel -DCMAKE_INSTALL_PREFIX=/home/niraj/final_wheelchair_ws/install -G Unix Makefiles

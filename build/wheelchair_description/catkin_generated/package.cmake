@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "wheelchair_description")
+set(wheelchair_description_MAINTAINER "niraj <niraj@todo.todo>")
+set(wheelchair_description_DEPRECATED "")
+set(wheelchair_description_VERSION "0.0.0")
+set(wheelchair_description_BUILD_DEPENDS "roscpp" "rospy" "urdf")
+set(wheelchair_description_RUN_DEPENDS "roscpp" "rospy" "urdf")
+set(wheelchair_description_BUILDTOOL_DEPENDS "catkin")

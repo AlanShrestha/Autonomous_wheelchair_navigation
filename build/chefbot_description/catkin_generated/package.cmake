@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "chefbot_description")
+set(chefbot_description_MAINTAINER "lentin <lentin@todo.todo>")
+set(chefbot_description_DEPRECATED "")
+set(chefbot_description_VERSION "0.0.0")
+set(chefbot_description_BUILD_DEPENDS "urdf" "xacro")
+set(chefbot_description_RUN_DEPENDS "urdf" "xacro" "kobuki_description" "create_description")
+set(chefbot_description_BUILDTOOL_DEPENDS "catkin")

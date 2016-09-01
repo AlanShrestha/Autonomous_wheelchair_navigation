@@ -1,0 +1,8 @@
+prefix=/home/niraj/final_wheelchair_ws/devel
+
+Name: setup_tf
+Description: Description of setup_tf
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/niraj/final_wheelchair_ws/devel/lib 
+Requires: 

@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "wheelchair_navigation")
+set(wheelchair_navigation_MAINTAINER "niraj <niraj@todo.todo>")
+set(wheelchair_navigation_DEPRECATED "")
+set(wheelchair_navigation_VERSION "0.0.0")
+set(wheelchair_navigation_BUILD_DEPENDS "geometry_msgs" "nav_msgs" "roscpp" "rospy" "std_msgs" "tf")
+set(wheelchair_navigation_RUN_DEPENDS "geometry_msgs" "nav_msgs" "roscpp" "rospy" "std_msgs" "tf")
+set(wheelchair_navigation_BUILDTOOL_DEPENDS "catkin")

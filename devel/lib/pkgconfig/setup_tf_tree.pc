@@ -1,0 +1,8 @@
+prefix=/home/niraj/final_wheelchair_ws/devel
+
+Name: setup_tf_tree
+Description: Description of setup_tf_tree
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/niraj/final_wheelchair_ws/devel/lib 
+Requires: 

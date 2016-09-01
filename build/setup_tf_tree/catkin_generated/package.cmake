@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "setup_tf_tree")
+set(setup_tf_tree_MAINTAINER "bikram <bikram@todo.todo>")
+set(setup_tf_tree_DEPRECATED "")
+set(setup_tf_tree_VERSION "0.0.0")
+set(setup_tf_tree_BUILD_DEPENDS "nav_msgs" "roscpp" "rospy" "std_msgs" "tf" "geometry_msgs")
+set(setup_tf_tree_RUN_DEPENDS "nav_msgs" "roscpp" "rospy" "std_msgs" "tf" "geometry_msgs")
+set(setup_tf_tree_BUILDTOOL_DEPENDS "catkin")
